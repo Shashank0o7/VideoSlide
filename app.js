@@ -83,7 +83,7 @@ var express                   = require("express"),
                     .size('640x?')
                     .loop(3.5)
                     .addInput('./audio.mp3')
-                    .save("slidevideo.mp4")
+                    .save("slidevideo1.mp4")
                    
                       }
                     })();
